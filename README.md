@@ -1,5 +1,7 @@
 # Landing Page Asset Generator - Claude Code Skill
 
+![Claude Code Nano Banana Logo](generated-assets/logo-modern-minimalist-logo-claude-code-2026-01-22.webp)
+
 A Claude Code skill for generating professional landing page assets using Google's Gemini 3 Pro Image API (playfully called "Nano Banana Pro"). This skill enables Claude to create high-quality marketing visuals, website graphics, and promotional images with automatic prompt enhancement and WebP optimization.
 
 ## Features
